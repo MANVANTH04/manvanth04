@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/b47506a81e73794a1fba84e43639b0adf7b7f0f69b2b434717c34170cda2dda3/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d63393965333533663736316433313833323263383533633033656263663231622e676966)
 <h1 align="center">Hi 👋, I'm Manvanth</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvanth04&label=Profile%20views&color=0e75b6&style=flat" alt="manvanth04" /> </p>
 
